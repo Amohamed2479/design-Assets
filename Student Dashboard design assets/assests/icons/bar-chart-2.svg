@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="18" viewBox="0 0 14 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="bar-chart-2" transform="translate(-5 -3)">
+    <line id="Line_2" data-name="Line 2" class="cls-1" y1="10" transform="translate(18 10)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-1" y1="16" transform="translate(12 4)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-1" y1="6" transform="translate(6 14)"/>
+  </g>
+</svg>
