@@ -1,8 +1,13 @@
 # Mail App Design Assets 
 The design assets of a concept mail app and it's concept landing page.
 
+-----
+Type: Concept
+-----
 
-[Download](#)
+
+
+[Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FAmohamed2479%2Fdesign-Assets%2Ftree%2Fmaster%2FMail%2520App%2520design%2520assets)
 
 This is how the app looks like,
 ![](design/mail-app.png)
