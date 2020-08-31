@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8d93ab;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="logo_icon" data-name="logo icon" transform="translate(-307 -391)">
+    <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-1" width="50" height="50" rx="15" transform="translate(307 391)"/>
+    <g id="Icon_feather-send" data-name="Icon feather-send" transform="translate(316.729 401)">
+      <path id="Path_4" data-name="Path 4" class="cls-2" d="M33,3,16.5,19.5" transform="translate(-3 -3)"/>
+      <path id="Path_5" data-name="Path 5" class="cls-2" d="M33,3,22.5,33l-6-13.5L3,13.5Z" transform="translate(-3 -3)"/>
+    </g>
+  </g>
+</svg>
