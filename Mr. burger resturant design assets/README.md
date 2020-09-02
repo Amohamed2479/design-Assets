@@ -14,7 +14,7 @@
 <br>
 <br>
 
-![](design/designs.png)
+![](design/design.png)
 
 <br>
 <br>
