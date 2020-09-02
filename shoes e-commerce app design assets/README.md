@@ -21,5 +21,5 @@
 <br>
 
 *Some of the images are from the Nike website so keep that in mind.* <br>
-*Designed with ♥ by [Anas Mohamed](https://dribbble.com/anas2479)<br> Part of the #qualityshitdesign series*
+*Designed with ♥ by [Anas Mohamed](https://dribbble.com/anas2479).<br> Part of the #qualityshitdesign series.*
 

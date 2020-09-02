@@ -25,4 +25,5 @@ Creaded Date : Aug 3, 2020
 
 
 
-*Images form unsplash.com & cleanpng.com <br> Designed with ❤ by [Anas Mohamed](https://github.com/amohamed2479)*
+*Designed with ♥ by [Anas Mohamed](https://dribbble.com/anas2479).<br> Part of the #qualityshitdesign series.*
+
