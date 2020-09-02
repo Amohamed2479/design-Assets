@@ -18,7 +18,9 @@ A simple student dashboard UI design.
 <br>
 <br>
 <br>
+
 ![](Designs/Dashboad-1.png)
+
 <br>
 <br>
 <br>
