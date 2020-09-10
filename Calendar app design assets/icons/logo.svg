@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.426" height="51.251" viewBox="0 0 46.426 51.251">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="logo" transform="translate(1.5 1.5)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M9.325,6H43.1a4.829,4.829,0,0,1,4.825,4.834V44.668A4.829,4.829,0,0,1,43.1,49.5H9.325A4.829,4.829,0,0,1,4.5,44.668V10.834A4.829,4.829,0,0,1,9.325,6Z" transform="translate(-4.5 -1.251)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-1" d="M24,3v9.5" transform="translate(7.363 -3)"/>
+    <path id="Path_3" data-name="Path 3" class="cls-1" d="M12,3v9.5" transform="translate(0.063 -3)"/>
+    <path id="Path_4" data-name="Path 4" class="cls-1" d="M4.5,15H47.926" transform="translate(-4.5 2.692)"/>
+    <path id="Path_5" data-name="Path 5" class="cls-1" d="M4.5,15H27.638" transform="translate(-4.5 14.497)"/>
+    <path id="Path_6" data-name="Path 6" class="cls-1" d="M4.5,15H21.922" transform="translate(-4.5 21.056)"/>
+    <path id="Path_7" data-name="Path 7" class="cls-1" d="M4.5,15h9.792" transform="translate(27.053 26.412)"/>
+  </g>
+</svg>

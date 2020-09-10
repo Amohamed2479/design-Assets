@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Icon_feather-alert-circle" data-name="Icon feather-alert-circle" transform="translate(1.5 1.5)">
+    <path id="Path_25" data-name="Path 25" class="cls-1" d="M33,18A15,15,0,1,0,18,33,15,15,0,0,0,33,18Z" transform="translate(-3 -3)"/>
+    <path id="Path_26" data-name="Path 26" class="cls-1" d="M18,18V12" transform="translate(-3 3)"/>
+    <path id="Path_27" data-name="Path 27" class="cls-1" d="M18,24h0" transform="translate(-3 -15)"/>
+  </g>
+</svg>
